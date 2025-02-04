@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/Work6_ReactAppFirebase/static/css/main.ca67ef22.css",
-    "main.js": "/Work6_ReactAppFirebase/static/js/main.2ce61097.js",
-    "static/js/488.d69c2548.chunk.js": "/Work6_ReactAppFirebase/static/js/488.d69c2548.chunk.js",
+    "main.js": "/Work6_ReactAppFirebase/static/js/main.390b5c60.js",
     "index.html": "/Work6_ReactAppFirebase/index.html",
-    "main.ca67ef22.css.map": "/Work6_ReactAppFirebase/static/css/main.ca67ef22.css.map",
-    "main.2ce61097.js.map": "/Work6_ReactAppFirebase/static/js/main.2ce61097.js.map",
-    "488.d69c2548.chunk.js.map": "/Work6_ReactAppFirebase/static/js/488.d69c2548.chunk.js.map"
+    "main.390b5c60.js.map": "/Work6_ReactAppFirebase/static/js/main.390b5c60.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca67ef22.css",
-    "static/js/main.2ce61097.js"
+    "static/js/main.390b5c60.js"
   ]
 }
