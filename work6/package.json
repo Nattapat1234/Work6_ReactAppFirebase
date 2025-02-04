@@ -2,7 +2,7 @@
   "name": "work6",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Nattapat1234.github.io/Work6_ReactAppFirebase/work6",
+  "homepage": "https://Nattapat1234.github.io/Work6_ReactAppFirebase/work6",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "firebase": "^11.2.0",
