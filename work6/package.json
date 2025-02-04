@@ -2,13 +2,13 @@
   "name": "work6",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nattapat1234.github.io/Work6_ReactAppFirebase/work6",
+  "homepage": "https://Nattapat1234.github.io/Work6_ReactAppFirebase",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "firebase": "^11.2.0",
-    "react": "^19.0.0",
+    "react": "^18.3.1",
     "react-bootstrap": "^2.10.9",
-    "react-dom": "^19.0.0",
+    "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
@@ -20,6 +20,7 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.3.0"
   },
   "browserslist": {

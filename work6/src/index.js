@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/mobile_and_web2024/work6">
+    <BrowserRouter basename="/Work6_ReactAppFirebase">
       <App />
     </BrowserRouter>
   </React.StrictMode>
